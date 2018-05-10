@@ -1,0 +1,25 @@
+.wrapper-advertising { 
+    display: inline-block;
+    position: relative;
+    vertical-align: top;
+    border: 1px solid  rgb(55, 184, 235);;
+    -webkit-border-radius: 9px;;
+            border-radius: 9px;
+    padding: 0;
+    margin: 0;
+}
+.advertising-label {
+    position: absolute;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    -webkit-border-radius: 10px;
+            border-radius: 10px;
+    background-color: rgb(55, 184, 235);
+    width: 85px;
+    height: 27px;
+    top: -17px;
+    left: 20px;
+    text-align: center;
+    padding-top: 6px;
+}
